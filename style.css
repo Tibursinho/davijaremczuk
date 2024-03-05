@@ -2,6 +2,8 @@
     background: #d4c21a;
     color: black;
     display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .imagem-cabecalho{
