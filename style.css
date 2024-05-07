@@ -79,7 +79,7 @@ height: 313px;
     }
     
     .escola{
-        background-image: linear-gradient(#424E61,#16CFF8);
+        background-image: linear-gradient(#d4c21a,#ffffff);
         color:white;
         display: flex;
         justify-content: center;
@@ -128,4 +128,3 @@ height: 313px;
         height: 60px;
         padding: 12px 0;
     }
-        
